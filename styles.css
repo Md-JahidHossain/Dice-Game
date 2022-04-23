@@ -22,6 +22,12 @@ h1 {
   color: #eab18d;
 }
 
+h2 {
+  font-size: 2.5rem;
+  color: #eab18d;
+  font-family: 'Montserrat', sans-serif;
+}
+
 p {
   font-size: 2.5rem;
   color: #bdb6c2;
